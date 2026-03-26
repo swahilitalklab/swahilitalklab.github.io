@@ -267,7 +267,7 @@
         <a href="#services">Services</a>
         <a href="#content">Learn</a>
         <a href="#contact">Contact</a>
-        <a href="https://YOUR-HUBSPOT-BOOKING-LINK-HERE" target="_blank" rel="noopener" class="nav-cta">Book Free 20-min Call</a>
+        <a href="https://meetings-eu1.hubspot.com/njoki" target="_blank" rel="noopener" class="nav-cta">Book Free 20-min Call</a>
       </div>
       <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation menu">
         <span></span><span></span><span></span>
@@ -288,7 +288,7 @@
         <p class="hero-sub">Arrive ready. Not just present.</p>
         <p class="hero-desc">Most professionals arrive in East Africa well-prepared — and still miss the things that matter most. Online cultural intelligence and professional Swahili preparation for NGO professionals, diplomats, field researchers and executives deploying across Kenya, Tanzania and Uganda.</p>
         <div class="hero-actions">
-          <a href="https://YOUR-HUBSPOT-BOOKING-LINK-HERE" target="_blank" rel="noopener" class="btn-primary">Book Free 20-min Briefing →</a>
+          <a href="https://meetings-eu1.hubspot.com/njoki" target="_blank" rel="noopener" class="btn-primary">Book Free 20-min Briefing →</a>
           <a href="#services" class="btn-secondary">See how we work</a>
         </div>
       </div>
@@ -373,7 +373,7 @@
           <h3>Essential Briefing</h3>
           <p>Three focused sessions covering the relational foundations of greetings in Kenya, Tanzania and Uganda; strategically chosen Swahili phrases for your professional context; and the communication signals most international professionals miss.</p>
           <p class="service-sessions">3 sessions · Online · TEFL-certified delivery</p>
-          <a href="https://YOUR-HUBSPOT-BOOKING-LINK-HERE" target="_blank" rel="noopener" class="btn-primary" style="margin-top:1.5rem; display:inline-flex;">Book Now →</a>
+          <a href="https://meetings-eu1.hubspot.com/njoki" target="_blank" rel="noopener" class="btn-primary" style="margin-top:1.5rem; display:inline-flex;">Book Now →</a>
         </article>
 
         <article class="service-card fade-up">
@@ -381,7 +381,7 @@
           <h3>Pre-Deployment Programme</h3>
           <p>Five sessions for professionals who want to prepare properly. We cover indirect communication, what meetings here actually mean, gift-giving, negotiation dynamics, the indirect no, and live scenario practice built around your exact role and deployment context.</p>
           <p class="service-sessions">5 sessions · Online · Scenario-led</p>
-          <a href="https://YOUR-HUBSPOT-BOOKING-LINK-HERE" target="_blank" rel="noopener" class="btn-primary" style="margin-top:1.5rem; display:inline-flex;">Book Now →</a>
+          <a href="https://meetings-eu1.hubspot.com/njoki" target="_blank" rel="noopener" class="btn-primary" style="margin-top:1.5rem; display:inline-flex;">Book Now →</a>
         </article>
 
         <article class="service-card fade-up">
@@ -396,7 +396,7 @@
       <div style="margin-top:3rem; padding:2.5rem; background:var(--mist); border-radius:2px; border:1px solid rgba(196,134,58,0.15); text-align:center;">
         <p style="font-family:var(--font-display); font-size:1.3rem; color:var(--earth); margin-bottom:0.75rem; font-style:italic;">Not sure which programme fits?</p>
         <p style="font-size:0.95rem; color:var(--text-soft); margin-bottom:1.5rem; max-width:500px; margin-left:auto; margin-right:auto;">Book a free 20-minute briefing. No commitment. We'll talk through your context, timeline and deployment and work out what makes sense.</p>
-        <a href="https://YOUR-HUBSPOT-BOOKING-LINK-HERE" target="_blank" rel="noopener" class="btn-primary">Book Free 20-min Briefing →</a>
+        <a href="https://meetings-eu1.hubspot.com/njoki" target="_blank" rel="noopener" class="btn-primary">Book Free 20-min Briefing →</a>
       </div>
     </div>
   </section>
@@ -467,7 +467,7 @@
           <div class="booking-icon">📅</div>
           <h3>Free 20-min Briefing</h3>
           <p>Book online. We'll discuss your deployment context and the right cultural and Swahili preparation for your timeline.</p>
-          <a href="https://YOUR-HUBSPOT-BOOKING-LINK-HERE" target="_blank" rel="noopener" class="booking-btn">Book via HubSpot</a>
+          <a href="https://meetings-eu1.hubspot.com/njoki" target="_blank" rel="noopener" class="booking-btn">Book via HubSpot</a>
         </div>
         <div class="booking-option">
           <div class="booking-icon">💬</div>
@@ -503,7 +503,7 @@
           <span class="hub-link">Follow Grace →</span>
         </a>
 
-        <a href="https://YOUR-YOUTUBE-CHANNEL-URL-HERE" target="_blank" rel="noopener" class="hub-card fade-up" aria-label="Subscribe to Swahili Talk Lab on YouTube">
+        <a href="https://www.youtube.com/@Swahilitalklab" target="_blank" rel="noopener" class="hub-card fade-up" aria-label="Subscribe to Swahili Talk Lab on YouTube">
           <div class="hub-icon youtube">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="#FF0000" aria-hidden="true"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
           </div>
@@ -512,7 +512,7 @@
           <span class="hub-link">Subscribe →</span>
         </a>
 
-        <a href="https://YOUR-MEDIUM-PROFILE-URL-HERE" target="_blank" rel="noopener" class="hub-card fade-up" aria-label="Read Grace Njoki on Medium">
+        <a href="https://medium.com/@swahilitalklab692" target="_blank" rel="noopener" class="hub-card fade-up" aria-label="Read Grace Njoki on Medium">
           <div class="hub-icon medium">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="#000" aria-hidden="true"><path d="M13.54 12a6.8 6.8 0 01-6.77 6.82A6.8 6.8 0 010 12a6.8 6.8 0 016.77-6.82A6.8 6.8 0 0113.54 12zM20.96 12c0 3.54-1.51 6.42-3.38 6.42-1.87 0-3.39-2.88-3.39-6.42s1.52-6.42 3.39-6.42 3.38 2.88 3.38 6.42M24 12c0 3.17-.53 5.75-1.19 5.75-.66 0-1.19-2.58-1.19-5.75s.53-5.75 1.19-5.75C23.47 6.25 24 8.83 24 12z"/></svg>
           </div>
@@ -541,7 +541,7 @@
           <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
           +254 754 828 268
         </a>
-        <a href="https://YOUR-HUBSPOT-BOOKING-LINK-HERE" target="_blank" rel="noopener" class="btn-primary">Book a Free Call →</a>
+        <a href="https://meetings-eu1.hubspot.com/njoki" target="_blank" rel="noopener" class="btn-primary">Book a Free Call →</a>
       </div>
     </div>
   </section>
